@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../brand/github/readme-banner-dark.png">
+    <img src="../brand/github/readme-banner.png" alt="Bambie Digital Works" width="640">
+  </picture>
+</p>
+
 # Bambie Digital Works
 
 Bambie Digital Works creates practical software, useful automation scripts, and
